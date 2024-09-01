@@ -22,7 +22,7 @@ To get started with the Book App, follow these steps:
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/your-username/book-app.git
+    git clone https://github.com/Ramandeep03/book-app.git
     ```
 
 2. **Navigate to the Project Directory**
